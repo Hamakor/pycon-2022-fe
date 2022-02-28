@@ -68,3 +68,14 @@ h2 {
     text-decoration: none;
     border-radius: 4px;
 }
+
+.location {
+	height: 200px;
+	text-align: center;
+}
+
+.contact-us {
+	height: 200px;
+	text-align: center;
+	padding-bottom: 200px;
+}
