@@ -57,6 +57,10 @@ h2 {
     padding: 0 20px;
 }
 
+#sponsors {
+    padding-bottom: 600px;
+}
+
 #actions {
     padding-top: 10px;
 }
@@ -78,4 +82,22 @@ h2 {
 	height: 200px;
 	text-align: center;
 	padding-bottom: 200px;
+}
+
+.sponsor {
+    min-height: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+.diamond {
+    width: 500px;
+}
+
+.gold {
+    width: 300px;
+}
+
+.silver {
+    width: 100px;
 }
