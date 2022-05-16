@@ -53,12 +53,11 @@ h2 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 700px;
     padding: 0 20px;
 }
 
 #sponsors {
-    padding-bottom: 600px;
+    text-align: center;
 }
 
 #actions {
@@ -82,22 +81,4 @@ h2 {
 	height: 200px;
 	text-align: center;
 	padding-bottom: 200px;
-}
-
-.sponsor {
-    min-height: 100px;
-    text-align: center;
-    display: inline-block;
-}
-
-.diamond {
-    width: 500px;
-}
-
-.gold {
-    width: 300px;
-}
-
-.silver {
-    width: 100px;
 }
