@@ -1946,7 +1946,7 @@ p.note {
         width: 100%; } }
     .djangogirls .sponsor img,
     .diamond .sponsor img {
-      width: auto; }
+      width: 65%; }
   .diamond-rtl .sponsor {
     position: relative;
     min-height: 1px;
@@ -1960,13 +1960,14 @@ p.note {
       width: auto; }
   .gold .sponsor {
     position: relative;
+    width: 35%;
     min-height: 1px;
     padding-left: 10px;
     padding-right: 10px; }
     @media (min-width: 768px) {
       .gold .sponsor {
         float: left;
-        width: 50%; } }
+        width: 35%; } }
   .gold-rtl .sponsor {
     position: relative;
     min-height: 1px;
@@ -1978,13 +1979,14 @@ p.note {
         width: 50%; } }
   .silver .sponsor {
     position: relative;
+    width: 20%;
     min-height: 1px;
     padding-left: 10px;
     padding-right: 10px; }
     @media (min-width: 768px) {
       .silver .sponsor {
         float: left;
-        width: 33.33333%; } }
+        width: 20%; } }
   .silver-rtl .sponsor {
     position: relative;
     min-height: 1px;
